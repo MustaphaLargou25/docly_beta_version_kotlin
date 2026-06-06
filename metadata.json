@@ -1,0 +1,6 @@
+{
+  "name": "Docly",
+  "description": "The student-powered platform to share and discover academic resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
